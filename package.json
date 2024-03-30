@@ -1,0 +1,27 @@
+{
+  "name": "coinverter",
+  "version": "1.0.0",
+  "description": "Effortlessly convert currencies with precision using this sleek npm package.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TusharSharma131/Coinverter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Tushar Sharma",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TusharSharma131/Coinverter/issues"
+  },
+  "homepage": "https://github.com/TusharSharma131/Coinverter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "axios": "^1.6.8"
+  }
+}
